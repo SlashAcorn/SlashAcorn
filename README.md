@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on anything 
 - 📫 How to reach me:
 Email - nhe@air.net.au
-Discord - SlashAcorn #7780
+Discord - SlashAcorn - @slashacorn
 
 
 <!---
