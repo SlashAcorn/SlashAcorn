@@ -1,13 +1,50 @@
-- 👋 Hi, I’m @SlashAcorn and I need to make an actually creative readme
-- 👀 I’m interested in GNU/Linux and open-source software (i hate microsoft, meta, amazon and google)
-- 🌱 I’m currently learning more about linux and will do lfs because sunlight is bloat
-- 💞️ I’m looking to collaborate on anything 
-- 📫 How to reach me:
-Email - nhe@air.net.au
-Discord - SlashAcorn - @slashacorn
+# Hi,  (^_^)/
+I'm Nick, I am currently a high school student in Eastern Australia.
+
+<!-- Hello again! why are you snooping around in my README? -->
+
+## Interests
+- Linux
+- Emacs
+- Electronics
+- Nintendo Homebrew
 
 
-<!---
-SlashAcorn/SlashAcorn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## Currently Working On
+Nothing! I am not currently working on anything meaningful but would be more than happy to contribute to any project.
+
+
+## Contact
+**Email** - nhe @ air . net . au
+
+**Discord** - slashacorn
+
+    
+## Computer Specs    
+
+### Desktop
+- **OS:** Arch Linux w/ Zen Kernel
+- **CPU:** Ryzen 7 5700X
+- **GPU:** AMD Radeon RX660
+- **Mem:** 2x8GB 3600MT/s DDR4 G.Skill Ripjaws V
+
+### Laptop
+Note: I love thinkpads, they are very affordable and build to last, 10/10 would reccommend
+- **Model:** Lenovo Thinkpad X250
+- **OS:** Ubuntu Linux 22.04 LTS (this ubuntu installation is roughly 10 years old and absolutely riddled with bloat)
+- **CPU:** Intel Core i5-5300U
+- **GPU:** Intel HD Graphics 5500
+- **Mem:** 1x8GB 1600MT/s DDR3 (some Samsung SODIMM)
+
+<details>
+  <summary>
+    
+  ## Geek Code
+  
+  </summary>
+  
+  ```
+  GCS/M d- s:--- a--- C++>$ UL+>+++$ P+>+++ L+++>++++$ E+>++$ W+>++ N? o? K? !w O? !M V? PS+ PE- Y? PGP>++ !t !5 !X !R tv b+>++ DI !D G e- h !r y?
+  ```
+  If you don't already know about the code of the geeks, [Click Here](http://www.joereiss.net/geek/)
+</details>
