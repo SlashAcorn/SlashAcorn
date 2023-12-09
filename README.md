@@ -16,7 +16,7 @@ than happy to contribute to any project.
 
 
 ## Contact
-**Email** - nhe @ air . net . au
+**Email** - nhe [at] air [dot] net.au
 
 **Discord** - slashacorn
 
