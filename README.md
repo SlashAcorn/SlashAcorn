@@ -1,5 +1,5 @@
 # Hi,  (^_^)/
-I'm Nick, I am currently a high school student in Eastern Australia.
+I'm Nick (aka SlashAcorn), I am currently a high school student in Eastern Australia.
 
 <!-- Hello again! why are you snooping around in my README? -->
 
