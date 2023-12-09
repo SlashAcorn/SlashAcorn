@@ -11,7 +11,8 @@ I'm Nick, I am currently a high school student in Eastern Australia.
 
 
 ## Currently Working On
-Nothing! I am not currently working on anything meaningful but would be more than happy to contribute to any project.
+Nothing! I am not currently working on anything meaningful but would be more
+than happy to contribute to any project.
 
 
 ## Contact
@@ -20,7 +21,7 @@ Nothing! I am not currently working on anything meaningful but would be more tha
 **Discord** - slashacorn
 
     
-## Computer Specs    
+## Computer Specs
 
 ### Desktop
 - **OS:** Arch Linux w/ Zen Kernel
@@ -44,7 +45,8 @@ Note: I love thinkpads, they are very affordable and build to last, 10/10 would 
   </summary>
   
   ```
-  GCS/M d- s:--- a--- C++>$ UL+>+++$ P+>+++ L+++>++++$ E+>++$ W+>++ N? o? K? !w O? !M V? PS+ PE- Y? PGP>++ !t !5 !X !R tv b+>++ DI !D G e- h !r y?
+  GCS/M d- s:--- a--- C++>$ UL+>+++$ P+>+++ L+++>++++$ E+>++$ W+>++ N? o? K? !w
+  O? !M V? PS+ PE- Y? PGP>++ !t !5 !X !R tv b+>++ DI !D G e- h !r y?
   ```
   If you don't already know about the code of the geeks, [Click Here](http://www.joereiss.net/geek/)
 </details>
