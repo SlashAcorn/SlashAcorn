@@ -25,17 +25,17 @@ than happy to contribute to any project.
 
 ### Desktop
 - **OS:** Arch Linux w/ Zen Kernel
-- **CPU:** Ryzen 7 5700X
-- **GPU:** AMD Radeon RX660
+- **CPU:** AMD Ryzen 7 5700X
+- **GPU:** AMD Radeon RX6600
 - **Mem:** 2x8GB 3600MT/s DDR4 G.Skill Ripjaws V
 
 ### Laptop
 Note: I love thinkpads, they are very affordable and build to last, 10/10 would reccommend
-- **Model:** Lenovo Thinkpad X250
-- **OS:** Ubuntu Linux 22.04 LTS (this ubuntu installation is roughly 10 years old and absolutely riddled with bloat)
-- **CPU:** Intel Core i5-5300U
-- **GPU:** Intel HD Graphics 5500
-- **Mem:** 1x8GB 1600MT/s DDR3 (some Samsung SODIMM)
+- **Model:** Lenovo Thinkpad T495
+- **OS:** Arch Linux w/ Mainline Kernel
+- **CPU:** AMD Ryzen 7 3700U 
+- **GPU:** AMD Radeon RX Vega 10
+- **Mem:** 1x16GB soldered, 1x16GB SODIMM
 
 <details>
   <summary>
