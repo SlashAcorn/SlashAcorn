@@ -11,9 +11,9 @@ I'm Nick (aka SlashAcorn), I am currently a high school student in Eastern Austr
 
 
 ## Currently Working On
-Nothing! I am not currently working on anything meaningful but would be more
-than happy to contribute to any project.
+- I am working on turning my base linux from scratch installation into a useable system
 
+I am more than happy to contribute to any other projects that interest me.
 
 ## Contact
 **Email** - nhe [at] air [dot] net.au
